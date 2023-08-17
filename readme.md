@@ -1,3 +1,7 @@
+upload to git hub
+git push github
+
+
 Specific Requirements:
 
 General Page Styles
