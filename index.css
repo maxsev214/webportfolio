@@ -1,0 +1,55 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: #333;
+  }
+  .section {
+    padding: 80px 0;
+    text-align: center;
+  }
+  #landing {
+    background-color: black;
+    color: #fff;
+  }
+  #projects {
+    background-color: #28a745;
+    border-style: none;
+    color: #fff;
+  }
+  
+  #tools {
+    background-color: blue;
+    color: #fff;
+  }
+
+  #contact {
+    background-color: lightcoral;
+    color: #fff;
+  }
+
+  .nav-item{
+    color: white;
+}
+
+  .navbar-toggler-white {
+    color: white; /* Set the color of the toggler icon */
+    border-color: white; /* Set the border color of the toggler button */
+  }
+
+  .navbarNav .nav-item:hover .nav-link {
+    text-light;
+    color: red;
+  }
+
+  div.navbar-nav {
+    --bs-nav-link-color:#b3b3b3;
+    --bs-nav-link-hover-color:white;
+  }
